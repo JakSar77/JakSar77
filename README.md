@@ -17,9 +17,9 @@
   <h3 align="center">Jakub <em>'JakSar77'</em> Šarm</h3>
 
   <p align="center">
-    Jsem PH
+    Internet: místo, kde muži jsou muži, ženy jsou taky muži a děti jsou ve skutečnosti agenti FBI.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://JakubSarm.eu/"><strong>Přejít na stránky »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
