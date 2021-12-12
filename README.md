@@ -20,13 +20,6 @@
     Internet: místo, kde muži jsou muži, ženy jsou taky muži a děti jsou ve skutečnosti agenti FBI.
     <br />
     <a href="https://JakubSarm.eu/"><strong>Přejít na stránky »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
 </p>
 
@@ -34,7 +27,7 @@
 <!-- CONTACT -->
 ## Contact
 
-Jakub Šarm - [@your_twitter](https://twitter.com/your_username) - sarm@jakubsarm.eu.com
+Jakub Šarm - sarm@jakubsarm.eu.com
 
 
 
