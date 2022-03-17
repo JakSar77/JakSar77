@@ -1,61 +1,35 @@
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<h1 align="center">Ahoj 👋, jmenuji se Jakub Šarm</h1>
+<h3 align="center">Jsem mladý programátor, který rád programuje webové aplikace.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaksar77&label=Profile%20views&color=0e75b6&style=flat" alt="jaksar77" /> </p>
 
+<p align="left"> <a href="https://twitter.com/jakub_sarm" target="blank"><img src="https://img.shields.io/twitter/follow/jakub_sarm?logo=twitter&style=for-the-badge" alt="jakub_sarm" /></a> </p>
 
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://JakubSarm.eu">
-    <img src="images/favicon.png" alt="Logo" width="80" height="80">
-  </a>
+- 🔭 Aktuálně pracuji na [GamerHost.pro](https://gamerhost.pro/home)
 
-  <h3 align="center">Jakub <em>'JakSar77'</em> Šarm</h3>
+- 🌱 Aktuálně pracuji s **Angularerm a PHP**
 
-  <p align="center">
-    Internet: místo, kde muži jsou muži, ženy jsou taky muži a děti jsou ve skutečnosti agenti FBI.
-    <br />
-    <a href="https://JakubSarm.eu/"><strong>Přejít na stránky »</strong></a>
-  </p>
+- 👯 Zároveň programuji [WPH-Cloud](https://www.wp-hosting.cz/administrace-serveru/)
+
+- 👨‍💻 Můj osobní web [https://jakubsarm.eu/](https://jakubsarm.eu/)
+
+- 📫 Kde můžete napsat **Sarm@jakubsarm.eu**
+
+- ⚡ Uplně nepotřebná informace **Život by byl mnohem snazší, kdybychom k němu měli zdrojové kódy.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/jakub_sarm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jakub_sarm" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jakub-%c5%a1arm-629b02186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jakub-%c5%a1arm-629b02186" height="30" width="40" /></a>
+<a href="https://fb.com/jakubsarm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jakubsarm" height="30" width="40" /></a>
+<a href="https://instagram.com/jakubsarm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jakubsarm" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<!-- CONTACT -->
-## Contact
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaksar77&show_icons=true&locale=en&layout=compact" alt="jaksar77" /></p>
 
-Jakub Šarm - sarm@jakubsarm.eu.com
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaksar77&show_icons=true&locale=en" alt="jaksar77" /></p>
 
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
-
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/jakub-%C5%A1arm-629b02186/
-[product-screenshot]: images/screenshot.png
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaksar77&" alt="jaksar77" /></p>
