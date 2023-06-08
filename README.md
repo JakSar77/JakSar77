@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/jakub_sarm" target="blank"><img src="https://img.shields.io/twitter/follow/jakub_sarm?logo=twitter&style=for-the-badge" alt="jakub_sarm" /></a> </p>
 
-- 🔭 Aktuálně pracuji na [GamerHost.pro](https://gamerhost.pro/home)
+- 🔭 Aktuálně pracuji na [WPCloud.cz](https://wpcloud.cz)
 
 - 🌱 Aktuálně pracuji s **Angularerm a PHP**
-
-- 👯 Zároveň programuji [WPH-Cloud](https://www.wp-hosting.cz/administrace-serveru/)
 
 - 👨‍💻 Můj osobní web [https://jakubsarm.eu/](https://jakubsarm.eu/)
 
